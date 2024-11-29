@@ -1,8 +1,8 @@
-Historia de Usuario 1: Crear una página WEB
+## Historia de Usuario 1: Crear una página WEB
 
-Como administrador de la escuela de futbol los arrayanes 
-Quiero poder contar con una página WEB,
-Para que la escuela pueda darse a conocer en el barrio
+** Como administrador de la escuela de futbol los arrayanes 
+** Quiero poder contar con una página WEB,
+** Para que la escuela pueda darse a conocer en el barrio
 Criterios de aceptación:
 	Debe ser una pagina WEB con la información de la escuela.
 	Debe contar con una sección sobre nosotros.
